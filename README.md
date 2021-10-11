@@ -3,13 +3,11 @@ Foreign language texts are presented in several different forms:
 
 1. The original text paragraph by paragraph (currently all texts here are in Bulgarian)
 2. Translated text paragraph by paragraph (currently all translations are in English)
-3. Transcribed original text paragraph by paragraph into spoken language
+3. Transcribed original text paragraph by paragraph into spoken language (click the *play* button to start▶️/stop⏹ the audio)
 4. The original text word by word
 5. Translated text word by word: Below each original word its translation is placed. This is one of the main aspects of the Birkenbihl method.
 
 ![Texts presented in several different forms](fig1.png)
-
-![The audio player for the transcription](fig2.png)
 
 Read more about the Birkenbihl method for learning languages:
 
