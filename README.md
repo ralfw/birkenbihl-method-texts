@@ -17,9 +17,10 @@ Read more about the Birkenbihl method for learning languages:
 
 ## Texts
 
-- [Джудженцето Алфи - A first experiment](Джудженцето Алфи) taken from the book [ПРИКАЗКИ ЗА ДЯДО КОЛЕДА from fiut.bg](https://www.fiut.bg/prikazki-za-djado-koleda-zabavni-igri.html)
-- [Bulgarian for Refugees (A1) - Lesson 10 (excerpt)](Bulgarian for Refugees - Lesson 10), full PDF book can be found [here](https://caritas.bg/cms/wp-content/uploads/2015/04/A1-English.pdf?x10535).
-- [Descent into the Maelstrom - Edgar Allan Poe (excerpt)](Descent into the Maelstrom - Edgar Allen Poe), full Bulgarian text can be found [here](https://chitanka.info/book/37-spuskane-v-maelstrxom).
+- [Джудженцето Алфи - A first experiment (BG-EN)](Джудженцето Алфи) taken from the book [ПРИКАЗКИ ЗА ДЯДО КОЛЕДА from fiut.bg](https://www.fiut.bg/prikazki-za-djado-koleda-zabavni-igri.html)
+- [Bulgarian for Refugees (A1) - Lesson 10 (excerpt, BG-EN)](Bulgarian for Refugees - Lesson 10), full PDF book can be found [here](https://caritas.bg/cms/wp-content/uploads/2015/04/A1-English.pdf?x10535).
+- [Descent into the Maelstrom - Edgar Allan Poe (excerpt, BG-EN)](Descent into the Maelstrom - Edgar Allen Poe), full Bulgarian text can be found [here](https://chitanka.info/book/37-spuskane-v-maelstrxom).
+- [Voyage au centre de la terre - Jules Verne (excerpt, FR-EN))](VOYAGE AU CENTRE DE LA TERRE), full French text can be found [here](https://www.gutenberg.org/cache/epub/4791/pg4791.txt).
 
 So far all texts are experimental. They are supposed to make the method tangible and test the feasibility of generating interlinear texts automatically.
 
