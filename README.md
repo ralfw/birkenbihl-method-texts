@@ -19,5 +19,7 @@ Read more about the Birkenbihl method for learning languages:
 
 ## Texts
 
-[Джудженцето Алфи - A first experiment](Джудженцето Алфи) taken from the book [ПРИКАЗКИ ЗА ДЯДО КОЛЕДА from fiut.bg](https://www.fiut.bg/prikazki-za-djado-koleda-zabavni-igri.html)
+- [Джудженцето Алфи - A first experiment](Джудженцето Алфи) taken from the book [ПРИКАЗКИ ЗА ДЯДО КОЛЕДА from fiut.bg](https://www.fiut.bg/prikazki-za-djado-koleda-zabavni-igri.html)
+- [Bulgarian for Refugees (A1) - Lesson 10 (excerpt)](Bulgarian for Refugees - Lesson 10), full PDF book can be found [here](https://caritas.bg/cms/wp-content/uploads/2015/04/A1-English.pdf?x10535).
+- [Descent into the Maelstrom - Edgar Allan Poe (excerpt)](Descent into the Maelstrom - Edgar Allen Poe), full Bulgarian text can be found [here](https://chitanka.info/book/37-spuskane-v-maelstrxom).
 
