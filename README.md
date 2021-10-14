@@ -21,6 +21,7 @@ Read more about the Birkenbihl method for learning languages:
 - [Bulgarian for Refugees (A1) - Lesson 10 (excerpt, BG-EN)](Bulgarian for Refugees - Lesson 10), full PDF book can be found [here](https://caritas.bg/cms/wp-content/uploads/2015/04/A1-English.pdf?x10535).
 - [Descent into the Maelstrom - Edgar Allan Poe (excerpt, BG-EN)](Descent into the Maelstrom - Edgar Allen Poe), full Bulgarian text can be found [here](https://chitanka.info/book/37-spuskane-v-maelstrxom).
 - [Voyage au centre de la terre - Jules Verne (excerpt, FR-EN))](VOYAGE AU CENTRE DE LA TERRE), full French text can be found [here](https://www.gutenberg.org/cache/epub/4791/pg4791.txt).
+- [The Art of Love - Erich Fromm (excerpt, LT-EN)](The Art of Love), excerpt taken from [here](http://stonemakers.de/patarimai.htm).
 
 So far all texts are experimental. They are supposed to make the method tangible and test the feasibility of generating interlinear texts automatically.
 

@@ -1,0 +1,44 @@
+<html><body>
+<div style="background-color:PapayaWhip;font-size:100%">Ar meilė yra menas?&nbsp🔈<span id='play000' style='cursor:pointer' onclick="toggle('000')">▶️</span></div>
+<audio controls id='audio000' style='display:none'><source src='p000.mp3'/></audio>
+<div style="color:gray;background-color:PapayaWhip;">Is love an art?</div>
+<table style="border:1px gray;border-collapse:collapse;border-style:dotted">
+<tr><td><table>
+<tr style="background-color:#9FE2BF;"><td>Ar</td><td>meilė</td><td>yra</td><td>menas?</td></tr>
+<tr style="color:gray;background-color:LightYellow;"><td>Ar.</td><td>love</td><td>there are</td><td>art</td></tr>
+</td></tr></table>
+</table>
+<div style="background-color:PapayaWhip;font-size:100%">Jei taip, tai jai reikia žinių ir pastangų. O gal meilė tik malonus jausmas, kurį mums dovanoja atsitiktinumas,kai kažkas pasijunta (...), "apimtas meilės".&nbsp🔈<span id='play001' style='cursor:pointer' onclick="toggle('001')">▶️</span></div>
+<audio controls id='audio001' style='display:none'><source src='p001.mp3'/></audio>
+<div style="color:gray;background-color:PapayaWhip;">If so, it needs knowledge and effort. Or maybe love is just a pleasant feeling, given to us by chance, when someone feels (...) "embraced by love".</div>
+<table style="border:1px gray;border-collapse:collapse;border-style:dotted">
+<tr><td><table>
+<tr style="background-color:#9FE2BF;"><td>Jei</td><td>taip,</td><td>tai</td><td>jai</td><td>reikia</td><td>žinių</td><td>ir</td><td>pastangų.</td><td>O</td><td>gal</td><td>meilė</td><td>tik</td><td>malonus</td><td>jausmas,</td></tr>
+<tr style="color:gray;background-color:LightYellow;"><td>If</td><td>Yes</td><td>Tai.</td><td>her</td><td>need</td><td>Knowledge</td><td>ir</td><td>effort</td><td>O.</td><td>gal.</td><td>love</td><td>only</td><td>pleasant</td><td>feeling</td></tr>
+</td></tr></table>
+<tr><td><table>
+<tr style="background-color:#9FE2BF;"><td>kurį</td><td>mums</td><td>dovanoja</td><td>atsitiktinumas,kai</td><td>kažkas</td><td>pasijunta</td><td>(...),</td><td>"apimtas</td><td>meilės".</td></tr>
+<tr style="color:gray;background-color:LightYellow;"><td>which one</td><td>us.</td><td>gifts</td><td>randomness</td><td>something</td><td>Pasijunta.</td><td>(...),</td><td>covered</td><td>love</td></tr>
+</td></tr></table>
+</table>
+
+<script>
+function toggle(soundnumber) {
+    var audio = document.getElementById('audio'+soundnumber);
+    var btn = document.getElementById('play'+soundnumber);
+
+    var isPlaying = btn.innerText == '⏹';
+    if (isPlaying) {
+        audio.pause();
+        audio.currentTime = 0; // stops by rewinding the audio
+        btn.innerText = '▶️';
+    } else {
+        btn.innerText = '⏹';
+        audio.onended = function() {
+            btn.innerText = '▶️';
+        };
+        audio.play();
+    }
+}
+</script>
+</body></html>
